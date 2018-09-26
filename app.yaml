@@ -1,5 +1,6 @@
 runtime: custom
 env: flex
+threadsafe: yes
 
 runtime_config:
   document_root: public
