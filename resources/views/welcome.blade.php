@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel prova Blog
+                    a ver si va
                 </div>
 
                 <div class="links">
